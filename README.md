@@ -3,7 +3,7 @@
 Smart App to alert driver using computer vision
 
 Demo:
-https://youtu.be/5gJaZJXJn4M
+https://youtu.be/i122hwoHmIs
 
 
 ![image](https://user-images.githubusercontent.com/58812068/115921294-f69baa80-a483-11eb-9d7b-f79de6760d3d.png)
